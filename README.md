@@ -41,6 +41,17 @@ TarkHub is a free Windows desktop app that puts every piece of intel you need fo
 
 ## Changelog
 
+### v1.3
+- Ammo and Ballistics chart
+
+### v1.2
+- Operators Online — live PMC count in sidebar
+- Loading overlay on every page
+- Spam-proof refresh button
+- Needed Items dedup — same item stacks into one row
+- Quest Tracker scroll lag fixed
+- Quest stats optimization
+
 ### v1.2
 - Operators Online — live PMC count in sidebar
 - Loading overlay on every page
