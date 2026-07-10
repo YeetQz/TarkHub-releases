@@ -1,6 +1,6 @@
 ﻿{"version": "1.4",
- "notes": "...",
+ "notes": "Auto-update now verifies file integrity before installing.",
   "download_url": "https://github.com/YeetQz/TarkHub-releases/releases/download/v1.4/TarkHub.exe",
-  "sha256": "4f9a1c...",
-  "size": 23482368
+  "sha256": "6E6380F9B23053D8D73CF274269022B6A94026CA1C7C67118E5AC44EB6457DC2",
+  "size": 39991768
 }
