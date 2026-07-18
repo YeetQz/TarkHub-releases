@@ -1,6 +1,7 @@
-﻿{"version": "1.6",
- "notes": "Auto-update now verifies file integrity before installing.",
-  "download_url": "https://github.com/YeetQz/TarkHub-releases/releases/download/v1.6/TarkHub.exe",
-  "sha256": "7C54D1DA5440B1BB34387B456760A032518DC028A4CDED640264F74734791B48",
-  "size": 39991344
+{
+  "version": "1.7",
+  "notes": "Massively faster Quests, Needed Items and Hideout. Fixed missing item icons.",
+  "download_url": "https://github.com/YeetQz/TarkHub-releases/releases/download/v1.7/TarkHub.exe",
+  "sha256": "cba1a87da13ae6cf6e9aedb8a64e7bef52bfdbbd262835ea69fe611e6986e80c",
+  "size": 39995944
 }
