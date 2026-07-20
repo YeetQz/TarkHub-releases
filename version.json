@@ -1,7 +1,7 @@
 {
-  "version": "1.7",
-  "notes": "Massively faster Quests, Needed Items and Hideout. Fixed missing item icons.",
-  "download_url": "https://github.com/YeetQz/TarkHub-releases/releases/download/v1.7/TarkHub.exe",
-  "sha256": "cba1a87da13ae6cf6e9aedb8a64e7bef52bfdbbd262835ea69fe611e6986e80c",
-  "size": 39995944
+  "version": "1.8",
+  "notes": "Scroll anywhere on the page. Faster Items page load. etc...",
+  "download_url": "https://github.com/YeetQz/TarkHub-releases/releases/download/v1.8/TarkHub.exe",
+  "sha256": "e7d6887e208cc714f06357b774607c5768ec5e7fde156a9f83c109edd4d2b52c",
+  "size": 40001911
 }
