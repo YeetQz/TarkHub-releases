@@ -1,7 +1,8 @@
 # TarkHub
+
 > The only Tarkov companion app you need. Built by a chad who loves this game too much.
 
-![Version](https://img.shields.io/badge/version-1.2-e8a020?style=flat-square)
+![Version](https://img.shields.io/badge/version-1.8-e8a020?style=flat-square)
 ![Platform](https://img.shields.io/badge/platform-Windows-0078d4?style=flat-square)
 ![Price](https://img.shields.io/badge/price-FREE-4caf50?style=flat-square)
 ![Status](https://img.shields.io/badge/status-active-4caf50?style=flat-square)
@@ -18,18 +19,22 @@ TarkHub is a free Windows desktop app that puts every piece of intel you need fo
 
 | Feature | Description |
 |---|---|
-| ☑ Quest Tracker | Every objective, every trader. Mark progress, filter by status or level |
+| ☑ Quest Tracker | Every objective, every trader. Mark a whole quest done in one click, undo anytime, filter by status or level |
 | ⬡ Live Prices | Real-time flea market data. Flea vs trader side by side |
 | ⌂ Hideout Planner | Track upgrades, items needed, and what's ready to build |
-| ☠ Boss GPS | Live spawn chances with event detection |
+| ☠ Boss Spawns | Real spawn chance per map, with spawn locations |
 | ◫ Interactive Maps | 2D, 3D, and interactive maps for every location |
 | ⊞ Needed Items | Auto-aggregates quest + hideout items sorted by flea price |
+| ◎ Ammo & Ballistics | Damage, penetration, armor class — full ammo chart |
 | ● Operators Online | See how many PMCs are running TarkHub right now |
+| ⟳ Auto-Update | Verified SHA-256 downloads — always on the latest version |
 
 ---
 
 ## Download
+
 - Website: tarkhub.com
+
 **[→ Download TarkHub.exe](https://github.com/YeetQz/TarkHub-releases/releases/latest/download/TarkHub.exe)**
 
 - No install required
@@ -41,30 +46,45 @@ TarkHub is a free Windows desktop app that puts every piece of intel you need fo
 
 ## Changelog
 
+### v1.8
+- Scroll anywhere on the page - Hopefully this stop Chony complaining
+- Items page loads faster
+- AUTO-UPDATE backend
+
+### v1.7
+- Quests, Needed-Items and Hideout load way faster
+- Item icons were not showing up
+- Clicking a quest name now opens it
+- Locked and completed quests fold away — click to show, or just search
+- Completed quests can be un-ticked again
+
+### v1.6
+- Auto-update now verifies file integrity before installing
+
+### v1.5
+Fixed where the app won't re-open after updated
+
+### v1.4
+- ADDED AUTO-UPDATE FEATURE
+
 ### v1.3
-- Ammo and Ballistics chart
+- AMMO & Ballistic Full Real-Time Information
 
 ### v1.2
-- Operators Online — live PMC count in sidebar
-- Loading overlay on every page
-- Spam-proof refresh button
-- Needed Items dedup — same item stacks into one row
-- Quest Tracker scroll lag fixed
-- Quest stats optimization
-
-### v1.2
-- Operators Online — live PMC count in sidebar
-- Loading overlay on every page
-- Spam-proof refresh button
-- Needed Items dedup — same item stacks into one row
-- Quest Tracker scroll lag fixed
-- Quest stats optimization
+- ADDED online user COUNTER
+- ADDED NEW Discord COUNTER
+- ADDED loading screen Overlay when the user Refresh
+- Fetching DATA OPTIMIZATION
+- FIXED lag when scroll
+- Needed Items no longer shows Duplicate
 
 ### v1.1
-- Reset system
-- API status indicator
-- Patch notes popup
-- Performance overhaul
+- Reset system — reset quest, hideout, or all progress"
+- API status indicator — real-time
+- Patch notes — you're reading this right now bro
+- Global image cache OPTIMIZATION
+- Quest + Hideout OPTIMIZATION
+- App no longer crashes at level 70 with many starred quests
 
 ---
 
