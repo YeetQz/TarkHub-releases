@@ -19,15 +19,15 @@ TarkHub is a free Windows desktop app that puts every piece of intel you need fo
 
 | Feature | Description |
 |---|---|
-| ☑ Quest Tracker | Every objective, every trader. Mark a whole quest done in one click, undo anytime, filter by status or level |
-| ⬡ Live Prices | Real-time flea market data. Flea vs trader side by side |
-| ⌂ Hideout Planner | Track upgrades, items needed, and what's ready to build |
-| ☠ Boss Spawns | Real spawn chance per map, with spawn locations |
-| ◫ Interactive Maps | 2D, 3D, and interactive maps for every location |
-| ⊞ Needed Items | Auto-aggregates quest + hideout items sorted by flea price |
-| ◎ Ammo & Ballistics | Damage, penetration, armor class — full ammo chart |
-| ● Operators Online | See how many PMCs are running TarkHub right now |
-| ⟳ Auto-Update | Verified SHA-256 downloads — always on the latest version |
+| ✅ Quest Tracker | Every objective, every trader. Mark a whole quest done in one click, undo anytime, filter by status or level |
+| 💰 Live Prices | Real-time flea market data. Flea vs trader side by side |
+| 🏠 Hideout Planner | Track upgrades, items needed, and what's ready to build |
+| 💀 Boss Spawns | Real spawn chance per map, with spawn locations |
+| 🗺️ Interactive Maps | 2D, 3D, and interactive maps for every location |
+| 📦 Needed Items | Auto-aggregates quest + hideout items sorted by flea price |
+| 🎯 Ammo & Ballistics | Damage, penetration, armor class — full ammo chart |
+| 🟢 Operators Online | See how many PMCs are running TarkHub right now |
+| 🔄 Auto-Update | Verified SHA-256 downloads — always on the latest version |
 
 ---
 
